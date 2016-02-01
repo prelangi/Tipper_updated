@@ -2,7 +2,7 @@
 Add more features to Tipper app for codepath submission
 Prework for Codepath This is a Tip Calculator application for iOS submitted as the pre-assignment requirement for CodePath.
 
-Time spent: [Write the number of hours you spend here]
+Time spent: [5hrs] (Just for the updates)
 
 Completed:
 
