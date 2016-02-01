@@ -35,5 +35,5 @@ Completed:
 
 
 Video Walkthrough
-
+https://github.com/prelangi/Tipper_updated/blob/master/TipperDemoUpdated2.gif
 Note: to embed the gif file, just check your gif file into your repo and update the name of the file above.
